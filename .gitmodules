@@ -1,0 +1,3 @@
+[submodule "laradock-timesheet-backend"]
+	path = laradock-timesheet-backend
+	url = https://github.com/Laradock/laradock.git
